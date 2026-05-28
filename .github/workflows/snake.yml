@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk/svg-only@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         with:
           github_user_name: LouisTsang-jk
           outputs: |
