@@ -25,18 +25,6 @@ $ ls ~/now
 
 <br/>
 
-### selected work
-
-| repo | what | tag |
-|---|---|---|
-| **[git-stage-validator](https://github.com/LouisTsang-jk/git-stage-validator)** | pre-commit code validation | tool · js |
-| **[veil-ui](https://github.com/LouisTsang-jk/veil-ui)** | typescript ui components | lib · ts |
-| **[strapi-ai-translator](https://github.com/LouisTsang-jk/strapi-ai-translator)** | ai-powered strapi i18n | tool · ts |
-| **[casefilemd](https://github.com/LouisTsang-jk/casefilemd)** | ai medical detective game engine | game · ts |
-| **[chatgpt-seal](https://github.com/LouisTsang-jk/chatgpt-seal)** | chatgpt seal experiment | exp · ts |
-
-<br/>
-
 ### stats
 
 <div align="center">
@@ -64,7 +52,7 @@ $ ls ~/now
 <div align="center">
 
 [![website](https://img.shields.io/badge/-louis--tsang.com-A78BFA?style=for-the-badge&logo=safari&logoColor=white)](https://www.louis-tsang.com)
-[![lacuna](https://img.shields.io/badge/-lacuna.fm-A78BFA?style=for-the-badge&logo=spotify&logoColor=white)](https://lacuna.fm)
+[![lacuna](https://img.shields.io/badge/-lacuna.fm-A78BFA?style=for-the-badge&logo=spotify&logoColor=white)](https://www.lacuna.fm)
 [![email](https://img.shields.io/badge/-louistsangjk%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louistsangjk@gmail.com)
 
 </div>
